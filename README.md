@@ -1,6 +1,6 @@
 
 # Hi there 👋
-## 🙇‍♂️ I'm Diki, a student who spends his time trying new technologies
+## I'm Diki, a college student who recently entered the universe of programming
 - 🔭 Currently learning more about front-end web development
 - 🦊 Fun fact, I love fox!
 - 📫 More about me :
