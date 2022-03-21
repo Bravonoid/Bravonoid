@@ -3,7 +3,7 @@
 ## I'm Diki, a college student who recently entered the universe of programming
 - 🔭 Currently learning more about front-end web development
 - 🦊 Fun fact, I love fox!
-- 📫 More about me :
+<!-- - 📫 More about me :
   <div id="badges">
     <a href="https://www.linkedin.com/in/dikibagastama/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,7 @@
     <a href="https://twitter.com/dikibagast">
       <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-  </div>
+  </div> -->
 
 ---
 
